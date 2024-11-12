@@ -4,3 +4,4 @@ structure:
     summary: summary.md
 
 redirect:
+    redirect-test-1: redirect-test-2
