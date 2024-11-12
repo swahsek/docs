@@ -1,1 +1,6 @@
+root: ./docs/
 
+structure:
+    summary: summary.md
+
+redirect:
