@@ -4,4 +4,4 @@ structure:
     summary: summary.md
 
 redirects:
-    redirect-test-2: /docs/page-1/move-1
+    redirect-test-2: ./docs/page-1/move-1
