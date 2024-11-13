@@ -2,4 +2,3 @@
 
 * [Page-1](README.md)
   * [Move-1](page-1/move-1.md)
-* [Redirect-Test-2](redirect-test-2.md)
